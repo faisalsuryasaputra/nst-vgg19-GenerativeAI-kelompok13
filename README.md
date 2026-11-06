@@ -1,4 +1,4 @@
-# Neural Style Transfer (NST) dari Nol — Kelompok 13
+# Neural Style Transfer  dari Nol — Kelompok 13
 
 Implementasi Neural Style Transfer berbasis optimasi piksel menggunakan PyTorch dan VGG-19 pralatih. Proyek kelompok mata kuliah [isi nama mata kuliah], dengan metode **Vibe Coding**: seluruh kode dibangun lewat kolaborasi dengan LLM, tanpa menyalin dari tutorial.
 
@@ -6,10 +6,10 @@ Implementasi Neural Style Transfer berbasis optimasi piksel menggunakan PyTorch 
 
 | Anggota | Peran |
 |---|---|
-| [Nama 1] | Prompt Engineer & LLM Navigator (Ketua) |
+| Yudis Akbar | Prompt Engineer & LLM Navigator (Ketua) |
 | Faisal Surya Saputra | Data Pipeline & Preprocessing Engineer |
-| [Nama 3] | Training Loop & Hyperparameter Tuning Engineer |
-| [Nama 4] | Lead Documentarian & Error Handler |
+| Faza Farih Riyadi | Training Loop & Hyperparameter Tuning Engineer |
+| Danang Setiyoadi | Lead Documentarian & Error Handler |
 
 ## Ringkasan Metode
 
@@ -73,7 +73,7 @@ Dependensi: `torch`, `torchvision`, `numpy`, `Pillow`, `matplotlib`, `requests` 
 - [`dokumentasi_dataset.md`](dokumentasi_dataset.md): sumber dan pipeline dataset
 - [`log_interaksi_llm.md`](log_interaksi_llm.md): log interaksi dengan LLM
 - [`log_kerja.md`](log_kerja.md): log kerja anggota
-- Tautan chat LLM: [tempel link share]
+- Tautan chat LLM: 
 
 ## Keterbatasan
 
@@ -83,4 +83,4 @@ Dependensi: `torch`, `torchvision`, `numpy`, `Pillow`, `matplotlib`, `requests` 
 
 ## Catatan Lisensi Gambar
 
-Gambar dari Unsplash memakai Unsplash License. Dua gambar awal (dari bioneers.org dan Pinterest) lisensinya tidak diketahui dan dipakai hanya untuk keperluan akademik non-komersial.
+Gambar dari Unsplash memakai Unsplash License. Dua gambar awal dari bioneers.org dan Pinterest lisensinya tidak diketahui dan dipakai hanya untuk keperluan akademik non-komersial.
