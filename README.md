@@ -1,6 +1,6 @@
 # Neural Style Transfer  dari Nol — Kelompok 13
 
-Implementasi Neural Style Transfer berbasis optimasi piksel menggunakan PyTorch dan VGG-19 pralatih. Proyek kelompok mata kuliah [isi nama mata kuliah], dengan metode **Vibe Coding**: seluruh kode dibangun lewat kolaborasi dengan LLM, tanpa menyalin dari tutorial.
+Implementasi Neural Style Transfer berbasis optimasi piksel menggunakan PyTorch dan VGG-19 pralatih. Proyek kelompok mata kuliah Generative AI, dengan metode **Vibe Coding**: seluruh kode dibangun lewat kolaborasi dengan LLM, tanpa menyalin dari tutorial.
 
 ## Anggota dan Peran
 
